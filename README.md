@@ -1,4 +1,4 @@
-# React + TypeScript Todos App
+# Week 1 - React + TypeScript Todos App
 
 ## Summary
 
